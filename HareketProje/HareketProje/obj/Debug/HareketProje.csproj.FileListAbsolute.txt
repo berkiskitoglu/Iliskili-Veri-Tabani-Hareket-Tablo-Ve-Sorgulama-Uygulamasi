@@ -1,0 +1,10 @@
+C:\Users\iskit\Desktop\Udemy_Project\HareketProje\HareketProje\bin\Debug\HareketProje.exe.config
+C:\Users\iskit\Desktop\Udemy_Project\HareketProje\HareketProje\bin\Debug\HareketProje.exe
+C:\Users\iskit\Desktop\Udemy_Project\HareketProje\HareketProje\bin\Debug\HareketProje.pdb
+C:\Users\iskit\Desktop\Udemy_Project\HareketProje\HareketProje\obj\Debug\HareketProje.csproj.AssemblyReference.cache
+C:\Users\iskit\Desktop\Udemy_Project\HareketProje\HareketProje\obj\Debug\HareketProje.Form1.resources
+C:\Users\iskit\Desktop\Udemy_Project\HareketProje\HareketProje\obj\Debug\HareketProje.Properties.Resources.resources
+C:\Users\iskit\Desktop\Udemy_Project\HareketProje\HareketProje\obj\Debug\HareketProje.csproj.GenerateResource.cache
+C:\Users\iskit\Desktop\Udemy_Project\HareketProje\HareketProje\obj\Debug\HareketProje.csproj.CoreCompileInputs.cache
+C:\Users\iskit\Desktop\Udemy_Project\HareketProje\HareketProje\obj\Debug\HareketProje.exe
+C:\Users\iskit\Desktop\Udemy_Project\HareketProje\HareketProje\obj\Debug\HareketProje.pdb
